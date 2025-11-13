@@ -1,6 +1,6 @@
 'Event class
 
-Public Class Event
+Public Class BankEvent
     Public Property TypeOfEvent As String
     Public Property EventTime As Integer
     Public Property Customer As Customer
